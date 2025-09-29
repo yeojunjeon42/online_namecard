@@ -1,11 +1,20 @@
 import React, { useState } from 'react';
+import Header from './components/Header.tsx';
 
 function App() {
 
     return (
         <div>
-            <h1>Yeojun Jeon</h1>
-            <p>testing testing testing</p>
+            <Header />
+            {/* 
+            
+            <Hero />
+            <About />
+            <Projects />
+            <Contact />
+            <Footer />
+            
+            */}
         </div>
     );
 }
