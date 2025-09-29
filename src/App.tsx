@@ -6,12 +6,12 @@ import './styles/styles.css';
 function App() {
 
     return (
-        <div>
+
+        <div className="min-h-screen bg-gradient-to-br from-sky-200 to-sky-700">
             <Navbar />
             <Hero />
             {/* 
             
-            <Hero />
             <About />
             <Projects />
             <Contact />
