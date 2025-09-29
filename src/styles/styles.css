@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+.hero-text {
+    color: var(black);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Neuemontreal, sans-serif;
+    font-size: 6vw;
+    font-weight: 500;
+    line-height: 6vw;
+}
